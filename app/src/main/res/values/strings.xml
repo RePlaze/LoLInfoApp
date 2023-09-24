@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LoL Info</string>
+
+    <string name="menu_dashboard">Champions</string>
+    <string name="menu_leaderboard">Favorite</string>
+    <string name="menu_store">Tier</string>
+    <string name="menu_profile">Skins</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="kaisa">Kaisa</string>
+    <string name="build">Build</string>
+    <string name="first_buy">First Buy</string>
+    <string name="weak_against">Weak Against</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_name_2">Item Name 2</string>
+    <string name="item_name_3">Item Name 3</string>
+    <string name="item_name_5">Item Name 5</string>
+    <string name="item_name_6">Item Name 6</string>
+    <string name="item_name_7">Item Name 7</string>
+    <string name="item_name_8">Item Name 8</string>
+    <string name="item_name_9">Item Name 9</string>
+    <string name="item_name_10">Item Name 10</string>
+    <string name="guide">Guide</string>
+</resources>

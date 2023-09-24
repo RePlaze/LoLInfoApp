@@ -1,0 +1,24 @@
+<!-- gradient_border.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background shape -->
+    <item>
+        <shape
+            android:shape="rectangle">
+            <solid android:color="@color/black" /> <!-- Card background color -->
+            <corners android:radius="20dp" /> <!-- Card corner radius -->
+        </shape>
+    </item>
+
+    <!-- Gradient border -->
+    <item android:right="2dp" android:left="2dp" android:top="2dp" android:bottom="2dp">
+        <shape
+            android:shape="rectangle">
+            <gradient
+                android:startColor="#00172c"
+            android:endColor="#0f71c4"
+            android:type="linear"
+            android:angle="0" />
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+</layer-list>
